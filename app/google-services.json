@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513977974677",
+    "project_id": "churchadministration-ce6dd",
+    "storage_bucket": "churchadministration-ce6dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513977974677:android:cf1524a346df57683a009c",
+        "android_client_info": {
+          "package_name": "com.laurentdarl.churchadministration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513977974677-687epbtb49ft0cc43ks35oq2lbv35mtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY1nU6xIDEue2W1Gb5NHiRn1c66jr0GxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513977974677-687epbtb49ft0cc43ks35oq2lbv35mtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
