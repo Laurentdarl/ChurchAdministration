@@ -1,6 +1,6 @@
 package com.laurentdarl.churchadministration.data.models.fcm
 
 data class FirebaseCloudMessage(
-    val to: String? = null,
-    val data: Data? = null
+    var to: String? = null,
+    var data: Data? = null
 )

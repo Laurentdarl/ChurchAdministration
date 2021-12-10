@@ -1,11 +1,11 @@
 package com.laurentdarl.churchadministration.data.models
 
 data class User(
-    val name: String? = null,
-    val phone: String? = null,
-    val profile_image: String? = null,
-    val user_id: String? = null,
-    val security_level: String? = null,
+    var name: String? = null,
+    var phone: String? = null,
+    var profile_image: String? = null,
+    var user_id: String? = null,
+    var security_level: String? = null,
     val messaging_token: String? = null,
     val department: String? = null
 )

@@ -3,7 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/drawable-v24/blue_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/drawable-v24/grey_border.xml" value="0.2203125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/drawable-v24/red_onclick_grey.xml" value="0.2203125" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/dialog_add_department.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/dialog_changephoto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/dialog_delete_chatroom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/dialog_new_chatroom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/dialog_resend_verification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/dialog_resetpassword.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/fragment_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/fragment_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/fragment_chatroom.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/fragment_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/fragment_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/fragment_settings.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/fragment_signed_in.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/layout_chatmessage_listitem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/layout_chatroom_listitem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/layout/layout_employee_listitem.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/USER/AndroidStudioProjects/ChurchAdministration/app/src/main/res/menu/options_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
